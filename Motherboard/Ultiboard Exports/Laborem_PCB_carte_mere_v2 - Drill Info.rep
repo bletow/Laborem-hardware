@@ -1,0 +1,28 @@
+ULTIBOARD DRILL REPORT
+
+Design: Laborem_PCB_carte_mere_v2
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                  LAMINATION
+Laborem_PCB_carte_mere_v2 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1  0.11811    PTH     13
+   2  0.02756    PTH    576
+   3  0.09252   NPTH     32
+   4  0.01969    PTH    761
+   5  0.03917    PTH      1
+   6  0.03500    PTH      5
+   7  0.04650    PTH      8
+   8  0.04333    PTH     16
+   9  0.23622   NPTH      4
